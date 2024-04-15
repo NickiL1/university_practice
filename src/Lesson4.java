@@ -83,4 +83,5 @@ class Password{
 }
 class Papa{
     int age;
+    int salary;
 }
