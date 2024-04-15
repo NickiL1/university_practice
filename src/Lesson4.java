@@ -64,7 +64,7 @@ class IsPalindrom{
 }
 
 class Password{
-    final int MIN_LEN = 8;
+    final int MIN_LEN = 9;
     public boolean isValid(String str){
         if (str.length() < MIN_LEN) {
             return false;
@@ -80,4 +80,7 @@ class Password{
         return true;
     }
 
+}
+class Papa{
+    int age;
 }
